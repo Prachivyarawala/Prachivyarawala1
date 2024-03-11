@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5IBer3FSeW8lZloMT17A228AjBm67ul5mz/XFprS2oX2M4SJESuHa/5ITgvu1643eYYkl+yzKzsDx1dEYWs8w==",
+  "success": true,
+  "projectFilePath": "D:\\casepoint\\AdminFlow\\Prachivyarawala1\\Mvc\\Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vyara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vyara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vyara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vyara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

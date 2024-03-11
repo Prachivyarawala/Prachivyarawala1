@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "25uwa1c2tFIxH5eWRtCwIWKDO8z+0fP+o7PsTNv95B+dE3sgqTSP+5Dtxwx+N48K9V6Cn0TGg8gNqLLxeHqDYA==",
+  "success": true,
+  "projectFilePath": "D:\\casepoint\\AdminFlow\\Prachivyarawala1\\Repositories\\Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vyara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vyara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vyara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
